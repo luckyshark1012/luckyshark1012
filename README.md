@@ -9,7 +9,9 @@
 <p>
   <img align="right" width="50%" src="programmer.gif" alt="luckyshark1012" />
 </p>
-
+<p>
+  Hello Batuhan
+</p>
 <p>
   As a Full Stack Software Engineer with 7 years of web development and 4 years remote background, I have successfully developed and published several web and mobile applications using modern JavaScript Frameworks and Libraries such as React(Primary), Vue, Next, Nuxt for the frontend and Node.js/Express.js(Primary) and Python/Django/Flask/PHP(laravel) for the backend.
 </p>
